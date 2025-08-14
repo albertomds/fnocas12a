@@ -2,9 +2,9 @@
 
 We observed minimal fluctuations in the RMSD across the different systems, indicating that the MD simulations are very stable, and possibly trapped in the local minima (Figure SX1). The absence of side chains in the FnoCas12aWT I2 experimental structure led to greater structural rearrangements during the initial phase of MD simulation until reaching a minimum energy configuration, albeit less than that observed in other systems.
 
-<center><div><img width="500" alt="image" src="https://github.com/user-attachments/assets/d4e9d807-227e-4d1e-8da6-0f7391dbf92d" /></div>
+<center><div><img width="500" alt="image" src="https://github.com/user-attachments/assets/d4e9d807-227e-4d1e-8da6-0f7391dbf92d" /></div></center>
 
-<div><b>Root Mean Squared Deviation (RMSD) of FnoCas12aWT and FnoCas12aKD2P states.</b> Colored lines represent the individual states: FnoCas12aKD2P S2 (purple), FnoCas12aKD2P S4b (green), FnoCas12aWT I2 (blue), and FnoCas12aWT I4 (orange). The RMSD was calculated by comparing each frame of the 1 μs MD trajectory to the corresponding average structure of each system.</div></center>
+<center><div><b>Root Mean Squared Deviation (RMSD) of FnoCas12aWT and FnoCas12aKD2P states.</b> Colored lines represent the individual states: FnoCas12aKD2P S2 (purple), FnoCas12aKD2P S4b (green), FnoCas12aWT I2 (blue), and FnoCas12aWT I4 (orange). The RMSD was calculated by comparing each frame of the 1 μs MD trajectory to the corresponding average structure of each system.</div></center>
 
 1.2 RMSF ANALYSIS
 
