@@ -13,3 +13,4 @@ RMSF analysis revealed high atomic fluctuations across all four states, limiting
 <center><img width="500" alt="image" src="https://github.com/user-attachments/assets/e080fb5b-cc54-4301-949e-109124e283b7" /></center>
 
 <b>Root Mean Squared Fluctuation (RMSF) analysis of FnoCas12aKD2P and FnoCas12aWT states.</b> RMSF profile for states A) S2 (FnoCas12aKD2P), B) S4b (FnoCas12aKD2P), C) I2 (FnoCas12aWT), and D) I4 (FnoCas12aWT). RMSF was computed over the production trajectories, with highlighted structural domains REC1 (light green), REC2 (dodger blue), PI (salmon), RuvC (medium purple), BH (hot pink), H1 (purple), WED (tan) and Nuc (grey) and also shown in a representative structure of state I4 (left).
+
