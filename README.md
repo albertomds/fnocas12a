@@ -4,7 +4,7 @@ We observed minimal fluctuations in the RMSD across the different systems, indic
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/d4e9d807-227e-4d1e-8da6-0f7391dbf92d" />
 
-<b>Root Mean Squared Deviation (RMSD) of FnoCas12aWT and FnoCas12aKD2P states.<\b> Colored lines represent the individual states: FnoCas12aKD2P S2 (purple), FnoCas12aKD2P S4b (green), FnoCas12aWT I2 (blue), and FnoCas12aWT I4 (orange). The RMSD was calculated by comparing each frame of the 1 μs MD trajectory to the corresponding average structure of each system.
+<b>Root Mean Squared Deviation (RMSD) of FnoCas12aWT and FnoCas12aKD2P states.</b> Colored lines represent the individual states: FnoCas12aKD2P S2 (purple), FnoCas12aKD2P S4b (green), FnoCas12aWT I2 (blue), and FnoCas12aWT I4 (orange). The RMSD was calculated by comparing each frame of the 1 μs MD trajectory to the corresponding average structure of each system.
 
 1.2 RMSF ANALYSIS
 
@@ -12,4 +12,4 @@ RMSF analysis revealed high atomic fluctuations across all four states, limiting
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/e080fb5b-cc54-4301-949e-109124e283b7" />
 
-<b>Root Mean Squared Fluctuation (RMSF) analysis of FnoCas12aKD2P and FnoCas12aWT states.<\b> RMSF profile for states A) S2 (FnoCas12aKD2P), B) S4b (FnoCas12aKD2P), C) I2 (FnoCas12aWT), and D) I4 (FnoCas12aWT). RMSF was computed over the production trajectories, with highlighted structural domains REC1 (light green), REC2 (dodger blue), PI (salmon), RuvC (medium purple), BH (hot pink), H1 (purple), WED (tan) and Nuc (grey) and also shown in a representative structure of state I4 (left).
+<b>Root Mean Squared Fluctuation (RMSF) analysis of FnoCas12aKD2P and FnoCas12aWT states.</b> RMSF profile for states A) S2 (FnoCas12aKD2P), B) S4b (FnoCas12aKD2P), C) I2 (FnoCas12aWT), and D) I4 (FnoCas12aWT). RMSF was computed over the production trajectories, with highlighted structural domains REC1 (light green), REC2 (dodger blue), PI (salmon), RuvC (medium purple), BH (hot pink), H1 (purple), WED (tan) and Nuc (grey) and also shown in a representative structure of state I4 (left).
