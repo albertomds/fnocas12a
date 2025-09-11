@@ -1,4 +1,4 @@
-
+This repository contains the additional simulation data and analyses of the study “Helical transition of the bridge helix of Cas12a is an allosteric regulator of R-loop formation and RuvC activation.” Within the pca folder, trajectory files and videos for pca1 and pca2 are available. The correlationMatrices folder provides the main correlation analysis results, compiled into an Excel spreadsheet (.xls). In addition, supplementary information about the simulation setups and conditions is included below to provide further context for reproducing and interpreting the results.
 
 <b>1.1 RMSD ANALYSIS</b>
 
