@@ -4,10 +4,10 @@ This repository contains the additional simulation data and analyses of the stud
 
 | System            | Box dimensions (Å)       | Total atoms | Water molecules | Na⁺ ions | Salt concentration note            |
 | ----------------- | ------------------------ | ----------: | --------------: | -------: | ---------------------------------- |
-| FnoCas12aKD2P-S2  | 152.82 × 152.99 × 152.78 |     321,238 |          99,541 |       21 | Neutralization only (no bulk salt) |
-| FnoCas12aKD2P-S4b | 150.08 × 150.44 × 150.28 |     300,672 |          92,456 |       43 | Neutralization only (no bulk salt) |
-| FnoCas12aWT-I2    | 157.18 × 156.79 × 156.96 |     347,398 |         107,936 |       50 | Neutralization only (no bulk salt) |
-| FnoCas12aWT-I4    | 152.82 × 152.99 × 152.78 |     320,234 |          98,612 |       75 | Neutralization only (no bulk salt) |
+| FnoCas12aKD2P-S2  | 152.82 × 152.99 × 152.78 |     321,238 |          99,541 |       21 | Neutralization   |
+| FnoCas12aKD2P-S4b | 150.08 × 150.44 × 150.28 |     300,672 |          92,456 |       43 | Neutralization  |
+| FnoCas12aWT-I2    | 157.18 × 156.79 × 156.96 |     347,398 |         107,936 |       50 | Neutralization  |
+| FnoCas12aWT-I4    | 152.82 × 152.99 × 152.78 |     320,234 |          98,612 |       75 | Neutralization  |
 
 
 <b>1.1 RMSD ANALYSIS</b>
