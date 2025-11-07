@@ -1,5 +1,15 @@
 This repository contains the additional simulation data and analyses of the study “Helical transition of the bridge helix of Cas12a is an allosteric regulator of R-loop formation and RuvC activation.” Within the pca folder, trajectory files and videos for pca1 and pca2 are available. The correlationMatrices folder provides the main correlation analysis results, compiled into an Excel spreadsheet (.xls). In addition, supplementary information about the simulation setups and conditions is included below to provide further context for reproducing and interpreting the results.
 
+<b> 1.0 SYSTEM SETUP
+
+| System            | Box dimensions (Å)       | Total atoms | Water molecules | Na⁺ ions | Salt concentration note            |
+| ----------------- | ------------------------ | ----------: | --------------: | -------: | ---------------------------------- |
+| FnoCas12aKD2P-S2  | 152.82 × 152.99 × 152.78 |     321,238 |          99,541 |       21 | Neutralization only (no bulk salt) |
+| FnoCas12aKD2P-S4b | 150.08 × 150.44 × 150.28 |     300,672 |          92,456 |       43 | Neutralization only (no bulk salt) |
+| FnoCas12aWT-I2    | 157.18 × 156.79 × 156.96 |     347,398 |         107,936 |       50 | Neutralization only (no bulk salt) |
+| FnoCas12aWT-I4    | 152.82 × 152.99 × 152.78 |     320,234 |          98,612 |       75 | Neutralization only (no bulk salt) |
+
+
 <b>1.1 RMSD ANALYSIS</b>
 
 We observed minimal fluctuations in the RMSD across the different systems, indicating that the MD simulations are very stable, and possibly trapped in the local minima (Fig. 1). The absence of side chains in the FnoCas12aWT I2 experimental structure led to greater structural rearrangements during the initial phase of MD simulation until reaching a minimum energy configuration, albeit less than that observed in other systems.
